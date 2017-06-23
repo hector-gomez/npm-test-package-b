@@ -1,0 +1,19 @@
+{
+  "name": "npm-test-package-b",
+  "version": "1.0.0",
+  "description": "Package without dependencies",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hector-gomez/npm-test-package-b.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hector-gomez/npm-test-package-b/issues"
+  },
+  "homepage": "https://github.com/hector-gomez/npm-test-package-b#readme"
+}
